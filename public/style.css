@@ -1,0 +1,22 @@
+body{
+    /* display: flex; */
+    background-color: rgba(255, 255, 255, 0.799);
+    text-align: center;
+    justify-content: center;
+}
+img{
+    width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 10px;
+  padding: 30px 30px 0px 30px;
+  box-sizing: border-box;
+
+}
+.container{
+    margin: 0 auto;
+    border: 1px solid black;
+    width: 700px;
+    border-radius: 2px;
+    box-shadow: 08px 16px 24px rgba(0, 0, 0, 0.2);
+}
